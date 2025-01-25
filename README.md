@@ -9,7 +9,7 @@ Member 3: Hiba Fathima A S - TocH Institiute of science and technology
 In a world were only women safety is prioritized above all else, Your Guardian is an app that ensures the safety of people irrespective of age and gender. Its advanced activation methods alerts guardians of the user when they are in danger and further alerts the police officers, if no further action is taken by the user. [Overtapping, overshaking, when the user says the secret code (known only to the user) are few ways the app is activated. Another way to activate this app is when the user fails to enetr the passcode within the specified intervals]. These methods help to summon assisstance effortlessly irrespective of time and place. Another point to note is that it allows you to enter as many guardians as possible. Your Guardian makes sure that Your Safety is Our Responsibility. 
 
 ### The Problem
-Lack of safety for all who are in danger
+Lack of safety for 'all' who are in danger
 
 ### The Solution 
 Your Guardian's various activation methods ensures quick assisstance in a life threatening situation. It is user friendly, simple and efficient, providing peace of mind and always ready to provide assistance when it matters most.

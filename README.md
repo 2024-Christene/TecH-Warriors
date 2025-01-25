@@ -18,10 +18,10 @@ Your Guardian's various activation methods ensures quick assisstance in a life t
 #### Technologies/Components Used
 For Software:
 
-Java,Dart
-Flutter
-Node
-Android studio,V S Code
+Languages:Java,Dart
+Framework:Flutter
+Library:Node
+Tools:Android studio,V S Code
 
 Installation:
 Flutter

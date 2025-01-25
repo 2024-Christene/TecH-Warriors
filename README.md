@@ -1,6 +1,6 @@
 # TecH-Warriors
 # Basic Details
-# Team Name: TecH Warriors
+## Team Name: TecH Warriors
 # Team Members
 Team Lead: Jesna Joy - TocH Institiute of science and technology 
 Member 2: Christene Sara John- TocH Institiute of science and technology 
